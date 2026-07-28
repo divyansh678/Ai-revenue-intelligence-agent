@@ -35,11 +35,12 @@ def get_engine():
         f"@{host}:{port}/{database}"
     )
 
-   return create_engine(
+ return create_engine(
     url,
     pool_pre_ping=True,
     pool_recycle=1800,
     connect_args={
+        "ssl_disabled": False,
         "ssl_ca": "ca.pem",
     },
 )
