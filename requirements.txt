@@ -3,7 +3,8 @@ pandas
 numpy
 plotly
 sqlalchemy
-mysql-connector-python
+PyMySQL
+cryptography
 python-dotenv
 scikit-learn
 google-genai
