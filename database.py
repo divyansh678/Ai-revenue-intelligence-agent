@@ -31,8 +31,8 @@ def get_engine():
     encoded_password = quote_plus(password)
 
     url = (
-        f"mysql+mysqlconnector://{user}:{encoded_password}"
-        f"@{host}:{port}/{database}"
+           f"mysql+pymysql://{user}:{encoded_password}"
+           f"@{host}:{port}/{database}"
     )
 
     return create_engine(
