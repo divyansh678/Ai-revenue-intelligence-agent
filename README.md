@@ -2,11 +2,19 @@
 
 > ### 🚀 AI-Powered Revenue Monitoring, Business Intelligence & Forecasting Platform
 
-An end-to-end **Revenue Intelligence Solution** built using **Python, SQL, MySQL, Excel, ETL, Power BI, Streamlit, and Google Gemini AI** to automate revenue monitoring, detect anomalies, forecast future sales, perform root-cause analysis, and generate AI-powered business insights.
+An end-to-end **Revenue Intelligence Solution** built using **Python, SQL, MySQL, Excel, ETL, Power BI, Streamlit, and Google Gemini AI** to automate revenue monitoring, detect anomalies, perform root-cause analysis, forecast future sales, and generate AI-powered business insights.
+
+<p align="left">
+
+<a href="https://ai-revenue-intelligence-agent-6dfdedwheaxkadq2xpvvdj.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="left">
 
@@ -25,11 +33,27 @@ An end-to-end **Revenue Intelligence Solution** built using **Python, SQL, MySQL
 
 # 📸 Project Preview
 
+---
+
 ## 🤖 AI Revenue Intelligence Agent
 
-![AI Home](Screenshots/ai-home.png)
+### 🌐 Live Demo
 
-The Streamlit-powered AI application serves as the central interface for business users. It integrates dashboards, AI insights, anomaly detection, and forecasting into a single platform, enabling decision-makers to monitor business performance efficiently.
+### 🚀 https://ai-revenue-intelligence-agent-6dfdedwheaxkadq2xpvvdj.streamlit.app/
+
+![AI Revenue Intelligence Agent](Screenshots/ai-home.png)
+
+The **AI Revenue Intelligence Agent** is an interactive Streamlit application that combines business intelligence, machine learning, and generative AI into a single platform. It enables users to monitor revenue, analyze sales performance, forecast future trends, detect anomalies, and receive AI-generated business recommendations in real time.
+
+### Key Highlights
+
+- 📊 Interactive Revenue Dashboard
+- 🤖 AI-Powered Business Insights
+- 📈 Revenue Forecasting
+- 🚨 Anomaly Detection
+- 📦 Product Intelligence
+- 💬 Natural Language Business Analysis
+- ⚡ Fast & User-Friendly Interface
 
 ---
 
@@ -37,136 +61,216 @@ The Streamlit-powered AI application serves as the central interface for busines
 
 ![Executive Dashboard](Screenshots/executive-dashboard.png)
 
-### Dashboard Highlights
+The Executive Dashboard provides a high-level overview of business performance through interactive KPIs and visualizations.
+
+### Dashboard Features
 
 - 💰 Total Revenue
 - 📈 Total Profit
 - 📦 Total Orders
-- 📊 Quantity Sold
+- 🛒 Quantity Sold
 - 📅 Monthly Revenue Trend
 - 🌍 Revenue by Market
 - 📂 Revenue by Category
 - 👥 Top Customers
-- 📉 Profit Analysis
+- 📊 Profit Analysis
 
 ### Executive Insights
 
-- Provides an overall view of business performance.
-- Tracks revenue and profitability trends.
-- Identifies top-performing markets.
-- Highlights key customer segments.
-- Supports strategic business decisions.
+- Monitor business performance at a glance.
+- Identify revenue growth trends.
+- Compare performance across different markets.
+- Track category-wise contribution.
+- Measure profitability.
+- Support executive decision-making.
 
 ---
 
 ## 🤖 AI Revenue Analysis
 
-![AI Analysis](Screenshots/ai-analysis.png)
+![AI Revenue Analysis](Screenshots/ai-analysis.png)
 
-### AI Capabilities
+The AI Revenue Analysis module leverages **Google Gemini AI** to transform raw business data into meaningful natural-language insights and recommendations.
+
+### AI Features
 
 - Revenue Summary
-- Trend Explanation
+- Sales Trend Analysis
+- Root Cause Analysis
+- Growth Opportunity Detection
 - Business Recommendations
-- Performance Comparison
-- Growth Opportunities
-- AI-generated Executive Insights
+- Executive Summary Generation
 
 ### Sample AI Insights
 
-- Revenue has increased steadily over the last quarter.
-- Technology category contributes the highest revenue.
-- Western market is the strongest performer.
-- Furniture category has lower profit margins.
-- Office Supplies maintain consistent growth.
+- Revenue increased significantly during the latest quarter.
+- Technology products contribute the highest overall revenue.
+- Western region consistently outperforms other markets.
+- Furniture category requires margin optimization.
+- Office Supplies maintain stable sales growth.
 
 ---
 
 ## 📦 Product Intelligence Dashboard
 
-![Product Intelligence](Screenshots/product-intelligence.png)
+![Product Intelligence Dashboard](Screenshots/product-intelligence.png)
+
+The Product Intelligence Dashboard provides detailed analysis of product performance, profitability, and category trends.
 
 ### Dashboard Features
 
 - Product Revenue
 - Product Profit
-- Quantity Sold
-- Product-wise Revenue
-- Category Performance
-- Profitability Analysis
-- Top Products
-- Bottom Products
+- Product Quantity Sold
+- Top Performing Products
+- Lowest Performing Products
+- Category Revenue Analysis
+- Product Profitability
+- Product Trend Analysis
 
 ### Business Insights
 
-- Identify best-selling products.
-- Detect underperforming products.
-- Compare category-wise profitability.
-- Improve inventory planning.
-- Optimize product portfolio.
+- Discover best-selling products.
+- Identify underperforming products.
+- Compare category profitability.
+- Optimize inventory planning.
+- Improve pricing strategy.
+- Increase overall product profitability.
 
 ---
 
 # 🚀 Project Overview
 
-AI Revenue Intelligence Agent transforms raw sales data into actionable business intelligence.
+The **AI Revenue Intelligence Agent** transforms raw transactional sales data into actionable business intelligence.
 
-The solution combines:
+The platform combines:
 
-- Interactive Power BI dashboards
-- AI-generated business insights
-- Revenue forecasting
-- Product intelligence
-- Sales trend analysis
-- Anomaly detection
-- Executive reporting
+- 📊 Power BI Dashboards
+- 🤖 Google Gemini AI
+- 📈 Machine Learning Forecasting
+- 🗄 SQL & MySQL Database
+- 📑 Excel Data Processing
+- 🔄 ETL Pipeline
+- 🌐 Streamlit Web Application
 
-The objective is to replace manual reporting with automated AI-driven analytics.
+The goal is to automate revenue analysis and enable business leaders to make faster, data-driven decisions.
 
 ---
 
 # ✨ Key Features
 
-### 📊 Business Intelligence
+## 📊 Business Intelligence
 
 - Executive Dashboard
-- Product Intelligence
+- Product Intelligence Dashboard
 - Revenue Trends
-- Category Analysis
-- Regional Performance
 - Customer Insights
-
-### 🤖 Artificial Intelligence
-
-- AI Revenue Summary
-- AI Recommendations
-- Trend Analysis
-- Business Insights
-- Root Cause Analysis
-- Performance Explanation
-
-### 📈 Forecasting
-
-- Revenue Forecast
-- Sales Trend Prediction
-- Time Series Analysis
-
-### 🚨 Anomaly Detection
-
-- Revenue Spike Detection
-- Revenue Drop Detection
-- Sales Pattern Analysis
-- Business Risk Identification
+- Market Performance
+- Category Analysis
 
 ---
 
-# 🧠 AI Insights
+## 🤖 Artificial Intelligence
 
-The AI engine automatically generates natural-language business summaries.
+- AI Revenue Summary
+- AI Business Recommendations
+- Root Cause Analysis
+- Trend Explanation
+- Executive Insights
+- Growth Opportunity Detection
 
-Example:
+---
 
-> Revenue increased by **15.4%** during the current quarter. Technology products continue to drive business growth, while Furniture profitability has declined due to higher discounts. Increasing inventory for high-margin products and optimizing discount strategies may improve future profitability.
+## 📈 Machine Learning
+
+- Revenue Forecasting
+- Sales Prediction
+- Trend Analysis
+- Business Pattern Recognition
+
+---
+
+## 🚨 Anomaly Detection
+
+The system automatically detects:
+
+- Revenue Drops
+- Revenue Spikes
+- Seasonal Changes
+- Product Sales Anomalies
+- Regional Performance Changes
+
+Benefits include:
+
+- Early risk detection
+- Faster business monitoring
+- Reduced revenue loss
+- Improved operational planning
+
+---
+
+# 📊 Dashboard Modules
+
+## 📈 Executive Dashboard
+
+✔ Revenue KPIs
+
+✔ Profit KPIs
+
+✔ Monthly Revenue Trends
+
+✔ Customer Analysis
+
+✔ Market Analysis
+
+✔ Category Performance
+
+---
+
+## 📦 Product Intelligence Dashboard
+
+✔ Product Revenue
+
+✔ Product Profit
+
+✔ Quantity Sold
+
+✔ Product Ranking
+
+✔ Category Comparison
+
+✔ Profitability Analysis
+
+---
+
+## 🤖 AI Revenue Intelligence
+
+✔ AI Revenue Summary
+
+✔ Business Recommendations
+
+✔ Root Cause Analysis
+
+✔ Executive Insights
+
+✔ Trend Analysis
+
+✔ Growth Opportunities
+
+---
+
+# 💼 Business Value
+
+This solution enables organizations to:
+
+- Improve revenue visibility.
+- Automate business reporting.
+- Detect sales anomalies.
+- Forecast future revenue.
+- Optimize product performance.
+- Support executive decision-making.
+- Reduce manual reporting effort.
+- Increase operational efficiency.
 
 ---
 
@@ -175,79 +279,15 @@ Example:
 - Revenue Forecasting
 - Sales Prediction
 - Trend Analysis
-- Time-Series Forecasting
-- Anomaly Detection
+- Time Series Forecasting
 - Business Pattern Recognition
-
----
-
-# 📊 Dashboard Modules
-
-## Executive Dashboard
-
-✔ Revenue KPIs
-
-✔ Profit KPIs
-
-✔ Orders
-
-✔ Monthly Trend
-
-✔ Category Performance
-
-✔ Market Performance
-
-✔ Customer Analysis
-
----
-
-## Product Intelligence
-
-✔ Product Revenue
-
-✔ Product Profit
-
-✔ Product Trends
-
-✔ Product Ranking
-
-✔ Category Analysis
-
-✔ Inventory Insights
-
----
-
-## AI Revenue Intelligence
-
-✔ AI Revenue Summary
-
-✔ Growth Opportunities
-
-✔ Executive Insights
-
-✔ AI Recommendations
-
-✔ Root Cause Analysis
-
----
-
-# 💼 Business Value
-
-The solution helps organizations:
-
-- Monitor revenue in real time.
-- Improve executive decision-making.
-- Detect unusual business patterns.
-- Forecast future revenue.
-- Optimize product performance.
-- Identify growth opportunities.
-- Reduce manual reporting effort.
+- Revenue Growth Estimation
 
 ---
 
 # 📂 Project Structure
 
-```
+```text
 AI-Revenue-Intelligence-Agent
 │
 ├── app.py
@@ -267,25 +307,25 @@ AI-Revenue-Intelligence-Agent
 
 # ⚙️ Installation
 
-### Clone Repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/divyansh678/Ai-revenue-intelligence-agent.git
 ```
 
-### Move into Project
+## Move into Project Folder
 
 ```bash
 cd Ai-revenue-intelligence-agent
 ```
 
-### Install Requirements
+## Install Required Packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run Application
+## Run the Streamlit Application
 
 ```bash
 streamlit run app.py
@@ -295,32 +335,44 @@ streamlit run app.py
 
 # 🎯 Future Enhancements
 
-- 🔄 Real-time Data Pipeline
+- 🌐 Live Database Integration
 - 📧 Automated Email Alerts
-- 📱 Mobile Dashboard
-- 🤖 Conversational AI Chatbot
-- 📊 Customer Intelligence Dashboard
+- 🤖 AI Chat Assistant
+- 📱 Mobile Responsive Dashboard
 - 📦 Inventory Intelligence
-- 🌍 Live Database Integration
+- 👥 Customer Intelligence Dashboard
 - ☁ Cloud Deployment
 - 📈 Advanced Predictive Analytics
+- 🔔 Real-Time Revenue Monitoring
 
 ---
 
 # 👨‍💻 Author
 
-## Divyansh Singh
+## **Divyansh Singh**
 
-**Data Analyst | AI & Machine Learning Enthusiast**
+**Aspiring Data Analyst | AI & Machine Learning Enthusiast**
 
-- 🔗 GitHub: https://github.com/divyansh678
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 📧 Email: *(Add your Email)*
+### 🔗 GitHub
+
+https://github.com/divyansh678
+
+### 🌐 Live Demo
+
+https://ai-revenue-intelligence-agent-6dfdedwheaxkadq2xpvvdj.streamlit.app/
+
+### 💼 LinkedIn
+
+Add your LinkedIn Profile Here
+
+### 📧 Email
+
+Add your Email Here
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub!
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
 
-It motivates me to build more Data Analytics, AI, and Machine Learning projects.
+Your support motivates me to build more AI, Machine Learning, and Data Analytics projects.
