@@ -27,7 +27,7 @@ An end-to-end **Revenue Intelligence Solution** built using **Python, SQL, MySQL
 
 ## 🤖 AI Revenue Intelligence Agent
 
-![AI Home](screenshots/ai-home.png)
+![AI Home](Screenshots/ai-home.png)
 
 The Streamlit-powered AI application serves as the central interface for business users. It integrates dashboards, AI insights, anomaly detection, and forecasting into a single platform, enabling decision-makers to monitor business performance efficiently.
 
@@ -35,7 +35,7 @@ The Streamlit-powered AI application serves as the central interface for busines
 
 ## 📈 Executive Dashboard
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](Screenshots/executive-dashboard.png)
 
 ### Dashboard Highlights
 
@@ -61,7 +61,7 @@ The Streamlit-powered AI application serves as the central interface for busines
 
 ## 🤖 AI Revenue Analysis
 
-![AI Analysis](screenshots/ai-analysis.png)
+![AI Analysis](Screenshots/ai-analysis.png)
 
 ### AI Capabilities
 
@@ -84,7 +84,7 @@ The Streamlit-powered AI application serves as the central interface for busines
 
 ## 📦 Product Intelligence Dashboard
 
-![Product Intelligence](screenshots/product-intelligence.png)
+![Product Intelligence](Screenshots/product-intelligence.png)
 
 ### Dashboard Features
 
